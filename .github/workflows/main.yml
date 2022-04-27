@@ -3,8 +3,8 @@
 # Edit your project details here.
 # Remember to add API_TOKEN_GITHUB in repo Settings > Secrets as well!
 env:
-  githubEmail: ${{ secrets.PERSONAL_GITHUB_EMAIL }}
-  deployToRepo: ${{ secrets.PERSONAL_GITHUB_REPO }}
+  githubEmail: cristea.adrian@icloud.com
+  deployToRepo: adriancristea.com
 
 name: Github Pages Astro CI
 
